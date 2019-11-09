@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:iChat.xcodeproj">
+      location = "group:/Users/kai/Kai/Realm/my-first-realm-app-master/ios/02-full-sync/FRCChat.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
